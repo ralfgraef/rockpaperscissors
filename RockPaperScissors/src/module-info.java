@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ralf
+ *
+ */
+module RockPaperScissors {
+}
